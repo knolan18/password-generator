@@ -14,3 +14,5 @@ This image shows the completed assignment's appearance and functionality:
 ## Link to Deployed Site
 
 TODO: ADD LINK TO DEPLOYED SITE
+
+https://knolan18.github.io/password-generator/
